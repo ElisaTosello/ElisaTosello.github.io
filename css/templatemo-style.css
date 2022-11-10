@@ -402,7 +402,7 @@ header .social-icon li a
 		padding: 40px;
 		overflow-y:  auto;
 		overflow-x: hidden;
-		min-height: 2500px;
+		min-height: 3500px;
 	}
 #publications h1
 	{
@@ -441,3 +441,11 @@ header .social-icon li a
 		padding: 50px;
 }
 /* end code */
+
+#hidden-div {
+  width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  background-color: lightblue;
+  margin-top: 20px;
+}
